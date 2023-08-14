@@ -40,9 +40,10 @@ Clone the Git repository or download as ZIP.
   - All Original Game Binaries
 
 ## Added Features
-- Removed BOIII Watermark
-- No Auto-Update
-- Reverted launcher to the original style
+  - Removed BOIII Watermark
+  - No Auto-Update
+  - Reverted launcher to the original style
+  - Changed executable icon to match original
 
 ## Installation
 
