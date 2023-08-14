@@ -36,7 +36,8 @@ Clone the Git repository or download as ZIP.
 
 ## Repository Contents
   - BOIII Client
-  - All necessary files including ext.dll
+  - All Necessary Files (Including `ext.dll`)
+  - All Original Game Binaries
 
 ## Added Features
 - Removed BOIII Watermark
