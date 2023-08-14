@@ -26,9 +26,6 @@ Clone the Git repository or download as ZIP.
     ```
     git clone https://github.com/Ahrimdon/boiii-client.git
     ```
-    
-  ***OR***
-
 - **Download ZIP**
   - Click on the green button at the top of the repo labeled `Code`
   - Click `Download ZIP`
